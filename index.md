@@ -14,7 +14,7 @@ humantime: "09:00 - 17:00"
 startdate: 2025-06-03
 enddate: 2025-06-03
 instructor: ["Carol Booth", "Dr Frances Turner"]
-helper: ["Dr Tiago Sousa Garcia"] 
+helper: ["Dr Tiago Sousa Garcia", "Dr Carmelo Calafiore", "Dr Alex Surtees"] 
 email: ["jannetta.steyn@newcastle.ac.uk"] 
 collaborative_notes: https://hackmd.io/@rseteam/2025-06-03-NCL
 eventbrite:  
